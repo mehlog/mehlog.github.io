@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: seanmusk123@gmail.com
 description: "一定是不喜欢名字那东西吧。我是我，你是你，我们是我们，他们是他们，这不挺好的么，我觉得。"
 keyword: "孙佳新，孙佳新的博客，mehlog"
-url: "https://https://mehlog.github.io/mehlog.github.io/"              # your host, for absolute URL
+url: "https://mehlog.github.io/mehlog.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
